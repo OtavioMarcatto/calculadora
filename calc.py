@@ -29,7 +29,7 @@ def set_background(png_file):
     ''' % bin_str
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-set_background('./H12PRO.png')
+set_background('./H12PROreduzido.png')
 
 #Plano de fundo sidebar
 
