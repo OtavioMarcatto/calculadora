@@ -6,6 +6,7 @@ import numpy as np
 #Opções sidebar
 st.sidebar.title("Menu")
 
+
 import base64
 import streamlit as st
 
